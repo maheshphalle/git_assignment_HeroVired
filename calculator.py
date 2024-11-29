@@ -13,9 +13,11 @@ class Calculator:
     def divide(self, a, b):
         return a / b
 
-    # implement the square root function
-    def square_root(self, x):
-        return math.sqrt(x)
+# implement the square root function
+
+def square_root(self, x):
+    return math.sqrt(x)
+
 
 if __name__ == "__main__":
     calculator = Calculator()
